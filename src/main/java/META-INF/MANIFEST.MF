@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-Vendor: The Netty Project
+Eclipse-SourceBundle: io.netty.netty-all;version="4.1.5.Final";roots:=
+ "."
+Built-By: teamcity
+Build-Jdk: 1.7.0_80
+Bundle-Version: 4.1.5.Final
+Bundle-Name: Netty/All-in-One
+Bundle-ManifestVersion: 2
+Created-By: Apache Maven 3.3.9
+Bundle-SymbolicName: io.netty.netty-all.source
+
